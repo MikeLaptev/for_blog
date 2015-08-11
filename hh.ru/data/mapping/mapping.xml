@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+    <service id="RecommendedVacancyStandardPlus">
+        <onpage>VacancyStandardPlus</onpage>
+        <incart>VacancyStandardPlus</incart>
+    </service>
+    <service id="RecommendedResumeDataBaseAccess">
+        <onpage>OneWeekResumeAccessInMoscowPage</onpage>
+        <incart>OneWeekResumeAccessInMoscowCart</incart>
+    </service>
+</services>

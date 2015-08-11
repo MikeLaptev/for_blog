@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywords>
+    <keyword>
+        <id>PageTitle</id>
+        <value>Purchase services</value>
+    </keyword>
+    <keyword>
+        <id>RecommendedTabName</id>
+        <value>Recommended</value>
+    </keyword>
+    <keyword>
+        <id>InCartButtonName</id>
+        <value>In basket</value>
+    </keyword>
+    <keyword>
+        <id>AddToCartButtonName</id>
+        <value>Add to basket</value>
+    </keyword>
+    <keyword>
+        <id>CartWithItemsTitle</id>
+        <value>In basket</value>
+    </keyword>
+    <keyword>
+        <id>EmptyCartTitle</id>
+        <value>Your basket is empty</value>
+    </keyword>
+    <keyword>
+        <id>GiftVacancyStandardPlus</id>
+        <value>Day of free access to resume database</value>
+    </keyword>
+    <keyword>
+        <id>GiftOneWeekResumeAccessInMoscow</id>
+        <value>Free Standart+ vacancy</value>
+    </keyword>
+    <!-- mapping -->
+    <keyword>
+        <id>VacancyStandardPlus</id>
+        <value>Standard+ vacancy</value>
+    </keyword>
+    <keyword>
+        <id>OneWeekResumeAccessInMoscowPage</id>
+        <value>Week of access to region resume database: Moscow and Moscow Region</value>
+    </keyword>
+    <keyword>
+        <id>OneWeekResumeAccessInMoscowCart</id>
+        <value>Resume database access</value>
+    </keyword>
+</keywords>

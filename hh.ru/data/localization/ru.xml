@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywords>
+    <keyword>
+        <id>PageTitle</id>
+        <value>Покупка услуг</value>
+    </keyword>
+    <keyword>
+        <id>RecommendedTabName</id>
+        <value>Рекомендуемое</value>
+    </keyword>
+    <keyword>
+        <id>InCartButtonName</id>
+        <value>В корзине</value>
+    </keyword>
+    <keyword>
+        <id>AddToCartButtonName</id>
+        <value>В корзину</value>
+    </keyword>
+    <keyword>
+        <id>CartWithItemsTitle</id>
+        <value>В корзине</value>
+    </keyword>
+    <keyword>
+        <id>EmptyCartTitle</id>
+        <value>Корзина пуста</value>
+    </keyword>
+    <keyword>
+        <id>GiftVacancyStandardPlus</id>
+        <value>День доступа к базе резюме бесплатно</value>
+    </keyword>
+    <keyword>
+        <id>GiftOneWeekResumeAccessInMoscow</id>
+        <value>Вакансия Стандарт+ бесплатно</value>
+    </keyword>
+    <!-- mapping -->
+    <keyword>
+        <id>VacancyStandardPlus</id>
+        <value>Вакансия Стандарт+</value>
+    </keyword>
+    <keyword>
+        <id>OneWeekResumeAccessInMoscowPage</id>
+        <value>Неделя доступа к резюме в регионе: Москва и Московская область</value>
+    </keyword>
+    <keyword>
+        <id>OneWeekResumeAccessInMoscowCart</id>
+        <value>Неделя доступа к базе резюме</value>
+    </keyword>
+</keywords>
